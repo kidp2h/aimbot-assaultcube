@@ -1,0 +1,16 @@
+D:\Project\TrainerGame\TrainerGame\obj\Debug\TrainerGame.csprojResolveAssemblyReference.cache
+D:\Project\TrainerGame\TrainerGame\bin\Debug\TrainerGame.dll
+D:\Project\TrainerGame\TrainerGame\bin\Debug\TrainerGame.pdb
+D:\Project\TrainerGame\TrainerGame\obj\Debug\TrainerGame.dll
+D:\Project\TrainerGame\TrainerGame\obj\Debug\TrainerGame.pdb
+D:\Project\TrainerGame\TrainerGame\bin\Debug\Memory.dll
+D:\Project\TrainerGame\TrainerGame\bin\Debug\Memory.pdb
+D:\Programing\Project\TrainerGame\TrainerGame\bin\Debug\TrainerGame.dll
+D:\Programing\Project\TrainerGame\TrainerGame\bin\Debug\TrainerGame.pdb
+D:\Programing\Project\TrainerGame\TrainerGame\bin\Debug\Memory.dll
+D:\Programing\Project\TrainerGame\TrainerGame\bin\Debug\Memory.pdb
+D:\Programing\Project\TrainerGame\TrainerGame\obj\Debug\TrainerGame.csprojAssemblyReference.cache
+D:\Programing\Project\TrainerGame\TrainerGame\obj\Debug\TrainerGame.csproj.CoreCompileInputs.cache
+D:\Programing\Project\TrainerGame\TrainerGame\obj\Debug\TrainerGame.csproj.CopyComplete
+D:\Programing\Project\TrainerGame\TrainerGame\obj\Debug\TrainerGame.dll
+D:\Programing\Project\TrainerGame\TrainerGame\obj\Debug\TrainerGame.pdb
